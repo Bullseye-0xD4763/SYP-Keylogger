@@ -11,7 +11,7 @@ python3 pylogger.py
 ```
 
 ```python3 
-Example output
+Example output:
 
 d' pressed
 'a' pressed
