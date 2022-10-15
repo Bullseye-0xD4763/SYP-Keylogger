@@ -8,8 +8,44 @@ It worked very well.
 
 ```python3 
 python3 pylogger.py
+d' pressed
+'a' pressed
+'s' pressed
+'d' pressed
+'a' pressed
+'s' pressed
+'d' pressed
+'s' pressed
+'a' pressed
+'d' pressed
+'j' pressed
+'h' pressed
+'s' pressed
+'a' pressed
+'d' pressed
+'h' pressed
+'a' pressed
+'j' pressed
+'k' pressed
+'a' pressed
+'d' pressed
+'n' pressed
+'a' pressed
+'i' pressed
+'u' pressed
+'a' pressed
+'u' pressed
+'f' pressed
+'g' pressed
+'o' pressed
+'o' pressed
+'g' pressed
+'l' pressed
+'e' pressed
+'.' pressed
+'c' pressed
+'o' pressed
 
-The program will then export a log.txt file with every key pressed during the program's runtime.
 ```
 
 
