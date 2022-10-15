@@ -22,5 +22,5 @@ d' pressed
 'a' pressed
 ```
 
-Output will then be saved to a .txt file named "log.txt"
+Output will then be saved to "log.txt"
 
