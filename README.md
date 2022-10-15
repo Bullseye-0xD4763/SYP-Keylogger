@@ -22,5 +22,5 @@ d' pressed
 'a' pressed
 ```
 
-
+The terminal output will then be exported to a .txt file named "log.txt"
 
