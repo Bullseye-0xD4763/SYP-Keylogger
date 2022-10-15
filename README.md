@@ -6,7 +6,7 @@ It worked very well.
 
 
 
-```python3 
+```bash
 python3 pylogger.py
 ```
 
