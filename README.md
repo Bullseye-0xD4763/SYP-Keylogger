@@ -22,7 +22,8 @@ d' pressed
 'd' pressed
 's' pressed
 'a' pressed
-```
+
 
 Output will then be saved to "log.txt"
+```
 
