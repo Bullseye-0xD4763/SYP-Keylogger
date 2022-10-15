@@ -10,9 +10,9 @@ It worked very well.
 python3 pylogger.py
 ```
 
-
-Example output
 ```python3 
+Example output
+
 d' pressed
 'a' pressed
 's' pressed
